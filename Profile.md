@@ -1,3 +1,3 @@
 Welcome to my profile, I'm Cafe de Terno!
 
-Studying programming atm :)
+I'm in the first year of software engineer :)
